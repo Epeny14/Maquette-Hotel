@@ -1,0 +1,218 @@
+
+header{
+	background-image: url("photo/grille.png");
+	height: 150px;
+	width: 100%;
+	margin: 0 auto;
+	padding-top: 25px;
+}
+
+body
+{
+	margin: 0;
+}
+li{
+	list-style-type: none;
+	font-size: 14px;
+	padding-top: 0px;
+	font-family: 'Oswald', sans-serif;
+}
+
+h4{
+	font-size: 14px;
+	text-align: center;
+	padding-left: 10px;
+	padding-right: 11px;
+	font-family: 'Oswald', sans-serif;
+}
+
+.contenu{
+	margin-left: 180px;
+	float: left;
+	margin-top: 20px;
+	position: absolute;
+
+}
+
+.menu-vertical{
+	position: relative;
+	display: flex;
+	float: right;
+	margin-right: 120px;
+}
+
+nav.resto{
+	width: 140px;
+	float: right;
+}
+
+.video{
+	text-align: center;
+	padding-top: 40px;
+}
+
+.orange{
+
+ border-bottom: 5px solid orange;
+ width: 90px;
+}
+.jaune{
+	border-bottom: 5px solid yellow;
+	width: 90px;
+}
+.green{
+	border-bottom: 5px solid green;
+	width: 90px;
+}
+.bleu{
+	border-bottom: 5px solid blue;
+	width: 90px;
+}
+.violet{
+	border-bottom: 5px solid purple;
+	width: 90px;
+}
+ul{
+	padding-left: 5px;
+
+}
+h5{
+	color: orange;
+}
+h6{
+	padding-top: 40px;
+}
+.image{
+	background-image: url("photo/grille.png");
+	height: 50px;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Oswald', sans-serif;
+}
+.golf{
+    width: 270px;
+ 	height: 340px;
+ 	border: 1px solid #EEEEC6;
+ 	float: left;
+
+ }
+ 
+ #win{
+ 	padding-left: 20px;
+ }
+
+ .arte{
+ 	position: relative;
+ 	top: 0px;
+ 	width: 293px;
+ 	height: 200px;
+ 	
+}
+
+#article{
+	width: 417px;
+	
+	flex-direction: column;
+	padding-left: 60px;
+}
+
+.container{
+	/*position: absolute;*/
+	margin: 0 auto;
+	/*width: 1099px;*/
+	height: 500px;
+	display: flex;
+	/*padding-left: 20px;*/
+}
+
+ .comment{
+ 	width: 400px;
+ 	height: 180px;
+ 	
+ 	padding-right: 70px;
+
+}
+ .img
+ {
+ 	position: relative;
+ 	float: right;
+ }
+
+ .bloc_img {
+ 	position: absolute;
+ 	width: 400px;
+ 	height: 200px;
+ 	border: 1px solid #000000;
+ }
+ #coln{
+ 	width: 332px;
+ }
+.billet{
+	/*padding-left: 270px;*/
+	/*position: absolute;*/
+ 	/*top: 1187px;*/
+ 	margin-left: 9%;
+}
+.derock{
+	/*padding-left: 600px;*/
+	/*position: absolute;
+	top: 1188px;*/
+	margin-left: 6%;
+}
+footer{
+ 	background-image: url(photo/grille.png);
+	/*padding-top: 10px;
+	margin-top:520px;*/
+ 	height: 225px;
+ 	width: 100%;
+}
+.footer1{
+	display: flex;
+	margin-left: 23%;
+}
+ .bland{
+	/*padding-left: 950px;*/
+	/*position: absolute;
+	top: 1188px;*/
+	margin-left: 6%;
+}
+.texte{
+   /*position: absolute;*/
+   padding-left: 50px;
+   /*margin-top: 27px;*/
+}
+.book{
+	/*float: right;
+	padding-right: 150px;*/
+	/*position: relative;*/
+	/*margin-top: -55px;*/
+	margin-left: 50%;
+	margin-top: 20px;
+
+}
+.contact{
+	/*padding-left: 21px;*/
+	/*position: relative;
+	margin-top: -22px;*/
+}
+.iframe{
+	border-width: 0px;
+}
+.under-footer{
+	/*margin-top: 7px;
+	position: absolute;*/
+	display: flex;
+
+}
+
+.paragraph{
+	font-family: 'Oswald', sans-serif;
+	font-size: 12px;
+}
+.title{
+	font-family: 'Oswald', sans-serif;
+}
+
+
+
+
